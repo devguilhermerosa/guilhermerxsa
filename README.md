@@ -1,23 +1,32 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=986dff&height=120&section=header"/>
 
-## Olá, me chamo Guilherme Rosa, moro atualmente no Rio de Janeiro, e tenho 21 anos. Sempre fui apaixonado por tecnologia, mas meu primeiro contato com a programação aconteceu no início de 2020, quando dei início a um projeto no GTA San Andreas Multiplayer SA-MP, utilizando a linguagem Pawn. Surpreendentemente, mesmo sem conhecimento prévio, o projeto foi um grande sucesso, talvez pela sua inovação, alcançando 400 jogadores simultâneos. Por volta de 2022, decidi interromper o projeto, e em 2023, dei início à minha graduação em Análise e Desenvolvimento de Sistemas na UNINTER. Atualmente, estou focado em aprofundar meus conhecimentos nas tecnologias de Front-End. No entanto, meu objetivo para o futuro é me tornar um desenvolvedor Full Stack.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=986dff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Douglas+Fernandes;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div>
-  <div  align="center"> 
-  <img  dark="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=discord_old_blurple=true&count_private=true"/>
-</div>
-<br>
- 
-  <div  align="center"> 
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.semnomomentoemdesenvolvimento">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/semusernomomento/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/guilhermerxsa/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
+- *📚 Cursando Análise e desenvolvimento de sistemas.*
+- *👨🏽‍💻 No momento estou estudando as tecnologías do Front-End.*
+- *🙌🏽 A procura de uma oportunidade de Estágio para ganhar mais experiência e por em prática minhas habilidades.*
+
+### Main skills::
+  <img align="center" alt="Logo Dg Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"><img align="center" alt="Dg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="Dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><img align="center" alt="Dg-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+### Studying in this moment:
+<img align="center" alt="Logo Dg Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Dg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Lua-React" height="30" widht="40" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
-![Snake animation](https://github.com/guilhermerxsa/guilhermerxsa/blob/main/github-contribution-grid-snake.svg)
+##
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Douglasffjw&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasffjw&layout=compact&langs_count=6&theme=aura"/>
+  
+<div>
+  <a href = "https://douglasffjw.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank">
+  <a href="https://instagram.com/_dougl4z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:douglasfernandesti@gmail.com?subject=Olá Douglas, vim pelo GitHub!"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/dgfernandesf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+    
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Douglasffjw}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=986dff&height=120&section=footer"/>
