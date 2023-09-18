@@ -3,7 +3,7 @@
 
 <div>
   <div  align="center"> 
-  <img  jolly="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=holi=true&count_private=true"/>
+  <img  jolly="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=city_lights=true&count_private=true"/>
 </div>
 <br>
  
