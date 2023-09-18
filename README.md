@@ -3,7 +3,7 @@
 
 <div>
   <div  align="center"> 
-  <img  jolly="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=discord_old_blurple=true&count_private=true"/>
+  <img  dark="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=discord_old_blurple=true&count_private=true"/>
 </div>
 <br>
  
