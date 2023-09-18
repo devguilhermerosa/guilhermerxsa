@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=986dff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=986dff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Douglas+Fernandes;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=986dff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Rosa;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - *📚 Cursando Análise e desenvolvimento de sistemas.*
 - *👨🏽‍💻 No momento estou estudando as tecnologías do Front-End.*
@@ -14,13 +14,13 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   
 ##
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Douglasffjw&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Douglasffjw&layout=compact&langs_count=6&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerxsa&layout=compact&langs_count=6&theme=aura"/>
   
 <div>
-  <a href = "https://douglasffjw.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank">
-  <a href="https://instagram.com/_dougl4z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href = "mailto:douglasfernandesti@gmail.com?subject=Olá Douglas, vim pelo GitHub!"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/dgfernandesf/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href = "https://emdesenvolvimento.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank">
+  <a href="https://instagram.com/guilhermerxsa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href = "mailto:semuserainda@gmail.com?subject=Olá Guilherme, vim pelo GitHub!"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/semuser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
     
 <div align="center">
