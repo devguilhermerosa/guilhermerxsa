@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=986dff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Guilherme+Rosa;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<img width=100%https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif
 - *📚 Cursando Análise e desenvolvimento de sistemas.*
 - *👨🏽‍💻 No momento estou estudando as tecnologías do Front-End.*
 - *🙌🏽 A procura de uma oportunidade de Estágio para ganhar mais experiência e por em prática minhas habilidades.*
