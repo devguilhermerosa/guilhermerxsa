@@ -18,7 +18,7 @@
 
 
 ##
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=aura&transparent=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   
 <div>
   <a href = "https://emdesenvolvimento.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank">
