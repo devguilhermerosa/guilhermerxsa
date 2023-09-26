@@ -15,6 +15,8 @@
 ### Studying in this moment:
 <img align="center" alt="Dg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
+<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
 
 ##
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermerxsa&layout=compact&langs_count=6&theme=aura"/>
