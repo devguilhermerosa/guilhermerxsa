@@ -4,20 +4,19 @@
  
 - *📚 Cursando Análise e desenvolvimento de sistemas.*
 - *👨🏽‍💻 No momento estou estudando as tecnologías do Front-End.*
-- *🙌🏽 A procura de uma oportunidade de Estágio para ganhar mais experiência e por em prática minhas habilidades.*
-
-
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+- *🙌🏽 A procura de uma oportunidade de Estágio para ganhar mais experiência e por em prática minhas habilidades.
 
 ### Main skills::
- <img align="center" alt="Dg-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rosa-HTML" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 
 ### Studying in this moment:
-<img align="center" alt="Dg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Dg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Dg-HTML" height="30" width="50" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png">
+<img align="center" alt="Rosa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rosa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rosa-Java" height="30" width="50" src="https://logos-world.net/wp-content/uploads/2023/02/JavaScript-Emblem.png">
 
 
 ##
+
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
 <center>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
