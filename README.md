@@ -21,6 +21,7 @@
 
 <center>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guilhermerxsa&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  </center>
   
 <div>
   <a href = "https://emdesenvolvimento.github.io/Meu-Portifolio/" target="_blank"><img src="https://img.shields.io/badge/-portif%C3%B3lio-%2523E4405F%3F?style=for-the-badge&logoColor=white&labelColor=986dff&color=986dff&cacheSeconds=3360" target="_blank">
@@ -28,7 +29,6 @@
    <a href = "mailto:semuserainda@gmail.com?subject=Olá Guilherme, vim pelo GitHub!"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/semuser/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-</center>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
